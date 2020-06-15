@@ -2,4 +2,3 @@
 
 * Yo
 * Me
-* Capitán America
